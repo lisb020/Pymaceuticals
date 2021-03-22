@@ -8,11 +8,19 @@ The goal of the project is to compare the performance of the drug, Capomulin, ve
 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
 
 ## Observations and Insights
-- The gender of the mice is very uniform and almost identical along with the amount of mice per drug regimen is similar.
-![Screenshot](Pymaceuticals/images/Gender Pie Chart.png "Screenshot")
+- The gender of the mice is very uniform and almost identical. Also, the amount of mice per drug regimen is similar.
+
+![Screenshot](Pymaceuticals/images/Gender_Pie_Chart.png "Screenshot")
 - The scatter plot demonstrates for Capomulin that the mouse weight and tumor volume possitively correlated and the tumor volume was larger for larger mice.
+
+![Screenshot](Pymaceuticals/images/Scatter_Plot.png "Screenshot")
 - The line plot demonstrates that Capomulin decreases the tumor volume over time.
+
+![Screenshot](Pymaceuticals/images/Line_Plot.png "Screenshot")
 - Capomulin is as effective as the most effective drug at reducing tumors as shown in the boxplot and summary statistics table where the tumor volume mean and median are almost as low as the lowest median and mean, Ramicane.
+
+![Screenshot](Pymaceuticals/images/Summary_Statistics.png "Screenshot")
+
 
 
 
