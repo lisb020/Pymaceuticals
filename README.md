@@ -1,11 +1,19 @@
 # Pymaceuticals
 Analysis of pharmaceutical Data using Matplotlib
 
-## Background
-249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of the study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
+## Project Description
 
-Instructions
-Your tasks are to do the following:
+The goal of the project is to compare the performance of the drug, Capomulin, versus the other treatment regimens. `Python`, `Matplotlib` library, `Pandas` library, and `scipy` library were used in the project. The Mapbox-API was also used to load the base maps. The project was divided into two steps with different levels of complexity.
+
+249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured.
+
+## Observations and Insights
+- The gender of the mice is very uniform and almost identical along with the amount of mice per drug regimen is similar.
+
+- The scatter plot demonstrates for Capomulin that the mouse weight and tumor volume possitively correlated and the tumor volume was larger for larger mice.
+- The line plot demonstrates that Capomulin decreases the tumor volume over time.
+- Capomulin is as effective as the most effective drug at reducing tumors as shown in the boxplot and summary statistics table where the tumor volume mean and median are almost as low as the lowest median and mean, Ramicane.
+
 
 
 Before beginning the analysis, check the data for any mouse ID with duplicate time points and remove any data associated with that mouse ID.
